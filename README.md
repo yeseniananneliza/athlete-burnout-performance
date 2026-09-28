@@ -32,6 +32,10 @@ The project includes:
 - Important performance-related features included previous-day performance,
   recovery score, fatigue level, sleep hours, and previous-day sleep.
 
+## Results Overview
+
+![Model results](results_overview.png)
+
 ## Technologies
 
 Python, pandas, NumPy, scikit-learn, and Matplotlib
@@ -42,3 +46,4 @@ The dataset used in this project is synthetically generated for demonstration
 and modeling practice. The classification target represents a performance drop,
 while the burnout risk score is an engineered indicator based on recovery,
 fatigue, sleep, and training patterns.
+
