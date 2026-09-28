@@ -1,0 +1,16 @@
+feature,importance
+num__prev_day_performance,0.6228273133243638
+num__recovery_score,0.10171301998480901
+num__fatigue_level,0.05032651788208632
+num__sleep_hours,0.0495928476150324
+num__prev_day_sleep,0.04469729436675457
+num__steps,0.015974785270325465
+num__sleep_7d_avg,0.015814580208825202
+num__calories_burned,0.014541240446645296
+num__soreness_score,0.010409395820501184
+num__fatigue_7d_avg,0.010391229182752561
+num__workout_duration,0.009421351234831041
+cat__primary_activity_mixed,0.00908694003235885
+num__hydration_level,0.008724661931354183
+cat__fitness_level_beginner,0.004727420205695872
+num__consecutive_training_days,0.004593828880675574
